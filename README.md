@@ -1,3 +1,20 @@
+<!-- protein-kanpai:start -->
+# プロテインで乾杯
+
+シェイカーを振ったら、今日の筋トレ完了。友達と同時に振れば「乾杯」になる。運動を一人で続けられない人のためのアプリです。
+
+- **アプリのソースと詳しい説明**：[app/README.md](app/README.md)
+- **紹介動画**：[app/docs/video/intro.mp4](app/docs/video/intro.mp4)
+- **プロダクト説明**：[app/docs/product.md](app/docs/product.md)
+- **アーキテクチャ図**：[app/docs/images/architecture.png](app/docs/images/architecture.png)
+- **著作物利用シート**：[app/docs/copyright-sheet.md](app/docs/copyright-sheet.md)
+- 開発用リポジトリ：https://github.com/kotakota914/protein-kanpai （`d9efb81` 時点の内容をコピー）
+
+![アプリの画面](app/docs/images/02-home.png)
+<!-- protein-kanpai:end -->
+
+---
+
 # DevFest Hackathon 2026 提出用リポジトリ
 
   DevFest Hackathon 2026 のチームの **最終提出用** リポジトリです。提出期限までに、作品のコードと資料をこのリポジトリに置いてください。
