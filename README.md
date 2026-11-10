@@ -13,7 +13,7 @@
 - **プロダクト説明**：[app/docs/product.md](app/docs/product.md)
 - **アーキテクチャ図**：[app/docs/images/architecture.png](app/docs/images/architecture.png)
 - **著作物利用シート**：[app/docs/copyright-sheet.md](app/docs/copyright-sheet.md)
-- 開発用リポジトリ：https://github.com/kotakota914/protein-kanpai （`6234ea4` 時点の内容をコピー。サーバーと接続のコードはプルリクエスト #1・#2 として提出中）
+- 開発用リポジトリ：https://github.com/kotakota914/protein-kanpai （`b385806` 時点の内容をコピー。サーバーと接続のコードはプルリクエスト #1・#2 として提出中）
 
 ![アプリの画面](app/docs/images/02-home.png)
 <!-- protein-kanpai:end -->
